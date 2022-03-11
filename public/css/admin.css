@@ -1,0 +1,185 @@
+ .dropdown:hover>.dropdown-menu
+{
+  display: block;
+  cursor: pointer;
+}
+.input-group-append span{
+ background-color: #4C0027 !important;
+ border-color: #4C0027 !important;
+}
+.btn-color{
+  background-color: #4C0027;
+
+}
+.text-color{
+  color: #1A8E76;
+
+}
+.a{
+  font-size: .9vw;
+}
+.switchery>small{
+  height: 20px;
+  float: right;
+}
+.switchery
+{
+  height: 20px;
+  float: right;
+}
+.label{
+    padding: 1rem 10rem;
+    background: #1A8E76; 
+    display: table;
+    color: #fff;
+   margin-left: 8rem;
+ 
+     }
+
+.inp{
+    width: .5rem 7rem;
+    
+  
+    color: #fff;
+
+ 
+     }
+
+
+.input2 {
+    display: none;
+}
+.admin-text{
+  font-size: 2vw;
+  font-weight: 500;
+
+
+}
+.admin-text2{
+  
+  font-weight: 500;
+  color: #1A8E76;
+  
+}
+.btn-color2{
+  background-color: #E44542;
+  width: 20%;
+  height: 5%;
+  color: white;
+}
+.btn-color3{
+  background-color: #1A8E76;
+  width: 20%;
+  height: 5%;
+  color: white;
+}
+
+.boxx
+{
+  height: 40rem;
+  overflow-y:scroll ;
+    width: 100;
+  
+}
+.a{
+  position: relative;
+}
+.con .overlay2 {
+  position: absolute; 
+  bottom: 30%;
+  left: 0%; 
+  background: #55C0A9;
+  color: #f1f1f1; 
+ 
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  
+  padding: 4%;
+  text-align: center;
+}
+
+
+.con:hover .overlay2 {
+  opacity: 1;
+ left: 30%;
+}
+.overlay2:hover {
+  background-color: red;
+}
+
+.con .overlay3 {
+  position: absolute; 
+  bottom: 30%;
+  left: 0%; 
+  background: #55C0A9;
+  color: #f1f1f1; 
+ 
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  
+  padding: 4%;
+  text-align: center;
+}
+
+
+.con:hover .overlay3 {
+  opacity: 1;
+ left: 50%;
+}
+.overlay3:hover {
+  background-color: green;
+  cursor: pointer;
+}
+
+.admin-detail{
+  
+
+  color: #1A8E76;
+  font-size: 1.6vw;
+  font-weight: 600;
+  font-family: Roboto,sans-serif;
+}
+.cash{
+  color: #4F4F4F;
+  font-size: 1.2vw;
+  font-weight: 600;
+  font-family: Roboto,sans-serif;
+}
+.cash2{
+  
+  font-size: 1.2vw;
+    font-weight: 300;
+  font-family: Roboto,sans-serif;
+}
+.detail{
+  
+  font-weight: 300;
+  font-size: 1.1vw;
+  
+  font-family: Roboto,sans-serif;
+}
+.bg-card{
+  background-color: #EEEEEE;
+}
+ .card-header{
+  background-color: #4C0027 ;
+}
+.text_color{
+  color: #4C0027;
+}
+.card-border:hover{
+  
+}
+.imgPreview{
+  width: 100%;
+  height: 2rem;
+  display: flex;
+}
+.imgPreview img{
+ width: 20%;
+ height: 8rem;
+}
+
+

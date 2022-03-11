@@ -1,0 +1,293 @@
+.imga
+{
+  position: relative;
+}
+.b
+{
+  position: absolute;
+  left: 70%;
+  top: 2%;
+  padding: 3%;
+  color: black;
+  
+  border-radius: 50%;
+  background-color: white;
+}
+select{
+    width: 100%;
+  padding: 6px 10px;
+  border: none;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+}
+
+
+.card_border{
+  border: 2px solid #002F34;
+}
+
+.fl{
+overflow: auto;
+
+}
+
+.btn-style{
+  width: 100%;
+  height: 10%;
+  background-color: #580631;
+  color: white;
+ 
+  font-family: Montserrat, Segoe Ui, sans-serif;
+}
+
+.name2{
+  color: #55C0A9;
+font-weight: 700;
+
+}
+.size{
+  background-color: #000000;
+  padding: 2% 6%;
+  text-align: center;
+  color: white;
+}
+.img-overfow{
+  overflow: auto;
+  
+
+}
+
+.left{
+  background-color: red;
+  color: #ffffff;
+  border-radius: 50%;
+  width: 2rem;
+  height: 2rem;
+  margin-left: 20%;
+  margin-top: 3rem;
+}
+.right{
+  background-color: red;
+  color: #ffffff;
+  border-radius: 50%;
+  width: 2rem;
+  height: 2rem;
+  margin-right: 20%;
+  margin-top: 3rem;
+}
+
+a:hover, a:visited, a:link, 
+{
+    text-decoration: none;
+}
+
+a:hover,  a:active
+{
+    color: #17A2B8;
+}
+.btn-color{
+  background-color: #002F34;
+}
+@media screen and (max-width: 600px)
+{
+  .review_image{
+  width: 5rem;
+  height: 5rem;
+}
+
+.review_image img {
+  width: 5rem;
+  object-fit: cover;
+  height: 5rem;
+  border: 2px solid red;
+  border-radius: 50%;
+  margin-left: 13rem;
+}
+.slider_text{
+  width: 100%;
+  margin-left: 0%;
+}
+.slider_text h6
+{
+  font-size: 4vw;
+  color: #999998;
+  
+}
+.slider_text p
+{
+  font-size:3vw;
+  color: #7A7A79;
+}
+  .imgs{
+    width: 100%; height: 20rem; overflow: hidden;
+  }
+  .names{
+ font-family :Montserrat, Segoe Ui, sans-serif;
+font-size:4vw;
+font-weight: 600;
+margin-bottom: 3px;
+}
+ .name3{
+ 
+font-family :Montserrat, Segoe Ui, sans-serif;
+font-size:3vw;
+font-weight: 500;
+
+}
+.review-mesage{
+  font-weight: 500;
+font-size: 3vw;
+font-family:Montserrat, Segoe Ui, sans-serif;
+color: #ffffff;
+}
+
+.n,.review-mesage{
+  margin-bottom: 2% !important;
+}
+.details-images{
+  width: 100%;
+  overflow-x: auto;
+}
+
+}
+@media screen and (min-width: 900px)
+{
+  .review_image{
+  width: 5rem;
+  height: 5rem;
+}
+
+.review_image img {
+  width: 5rem;
+  object-fit: cover;
+  height: 5rem;
+  border: 2px solid red;
+  border-radius: 50%;
+  margin-left: 18rem;
+}
+.slider_text{
+  width: 60%;
+  margin-left: 20%;
+}
+.slider_text h6
+{
+  font-size: 1.3vw;
+  color: #999998;
+  
+}
+.slider_text p
+{
+  font-size: 1.1vw;
+  color: #7A7A79;
+}
+.imgs{
+    width: 100%; height: 35rem; overflow: hidden;
+  }
+.names{
+    font-family :Montserrat, Segoe Ui, sans-serif;
+    font-size:1.8vw;
+    font-weight: 600;
+    margin-bottom: 3px;
+   }
+   .p_detail{
+    font-family : Montserrat, Segoe Ui, sans-serif;
+    font-size:1.1vw;
+    color: #002f34;
+    margin-bottom: 3px;
+   }
+ .name3{
+ 
+font-family : Montserrat, Segoe Ui, sans-serif; !important;
+font-size:1.1vw !important;
+font-weight: normal;
+
+}
+.name4{ 
+font-family :Montserrat, Segoe Ui, sans-serif;
+color: #CCCCCC;
+font-size:.9;
+font-weight: 500;
+
+}
+
+.review-mesage{
+  font-weight: 500;
+font-size: 1vw;
+font-family: Montserrat , Segoe Ui, sans-serif;
+color: #ffffff;
+}
+
+.review-product{
+  font-weight: 600;
+font-size: 2vw;
+font-family: Montserrat, Segoe Ui, sans-serif;
+
+}
+.form-review{
+ background-color: #1F2833;
+ padding-top: 1%;
+ padding-bottom: 1%;
+}
+.n,.review-mesage{
+  margin-bottom: 2% !important;
+}
+.review-overflow{
+  height: 20rem;
+  overflow-y: auto;
+  direction: rtl;
+}
+.rt{
+   direction: ltr;
+}
+
+
+
+
+.details-images2{
+  width: 100%;
+  overflow-x: auto;
+  display: flex;
+}
+}
+.hr{
+  border: 0;clear:both;
+  display:block;
+  width: 96%;
+  background-color:#55C0A9;
+  height: 1px;
+}
+.checked2{
+ color: #E0A216;
+}
+.review-img{
+  height: 6rem;
+ width: 2.2rem;
+ margin-left: 0;
+ margin-right: 0;
+
+ display: block;
+  border-radius: 50%;
+  border:  2px solid black;
+}
+
+.review-btn{
+background: black;
+}
+.review-card{
+  width: 100%;
+  height: 25rem;
+  color: #ffffff;
+  background-color: #292929;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s all ease-in-out;
+}
+.review-card:hover{
+  margin-top: -5%;
+
+}
+@media screen and (max-width: 1024px)
+{
+  .form-header{
+    display: none;
+  }
+}
